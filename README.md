@@ -1,5 +1,6 @@
-# image-classifiction
+# image-classification
 project on image classification
+
 #import dependencies
 import numpy as np
 import pandas as pd
